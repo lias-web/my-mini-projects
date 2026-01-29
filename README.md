@@ -1,3 +1,3 @@
 # My-Site 
 
-This is my personal site.Yay!
+This is my _personal_ **site**.Yay!
