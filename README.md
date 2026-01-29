@@ -1,7 +1,3 @@
-# My-Site 
+# My-mini-projects
 
-This is my _personal_ **site**. _**Yay!**_
-
-```python
-print("hello world")
-```
+Here I'm going to post all my mini projects for exercise.
